@@ -12,5 +12,19 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This application is a basic scheduling app for small businesses to create weekly schedules for full and part-time employees with various conditions for when they can work.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexJHand/scheduling-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexJHand/scheduling-app/issues"
+  },
+  "homepage": "https://github.com/AlexJHand/scheduling-app#readme"
 }
